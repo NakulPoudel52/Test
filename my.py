@@ -11,3 +11,4 @@ def funcname(a,b):
 
 print(funcname(1,2))
 print(funcname(8,9))
+print(funcname(8,7))
