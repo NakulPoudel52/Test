@@ -10,3 +10,4 @@ def funcname(a,b):
     return(a+b)
 
 print(funcname(1,2))
+print(funcname(8,9))
